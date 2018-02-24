@@ -1,38 +1,9 @@
 # NodeUploads
 
-An example of how to upload images locally with Node.js and Multer.
+Upload images using the multer package, and the files are locally stored in uploads folder.Used materialize for front-end and nodejs for backend.
 
-### Version
-1.0.0
+#### Install the packages
 
-## Usage
-
-### Installation
-
-Install the dependencies
-
-```sh
-$ npm install
 ```
-
-### Serve
-To serve in the browser
-
-```sh
-$ npm start
+$ npm init
 ```
-
-## App Info
-
-### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
-
-### Version
-
-1.0.0
-
-### License
-
-This project is licensed under the MIT License
